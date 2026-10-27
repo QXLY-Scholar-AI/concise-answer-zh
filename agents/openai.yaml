@@ -1,0 +1,6 @@
+interface:
+  display_name: "简明中文写作"
+  short_description: "起草和精简中文长回答，保留完整内容、明确主体条件并保持句段自然衔接"
+  default_prompt: "请用 $concise-answer-zh 整理这份稿件，删去冗余，保留必要信息与自然衔接。"
+policy:
+  allow_implicit_invocation: true
